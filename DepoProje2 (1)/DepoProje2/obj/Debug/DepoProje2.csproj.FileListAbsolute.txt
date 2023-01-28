@@ -1,0 +1,36 @@
+C:\Users\yusuf\source\repos\DepoProje2\DepoProje2\bin\Debug\DepoProje2.exe.config
+C:\Users\yusuf\source\repos\DepoProje2\DepoProje2\bin\Debug\DepoProje2.exe
+C:\Users\yusuf\source\repos\DepoProje2\DepoProje2\bin\Debug\DepoProje2.pdb
+C:\Users\yusuf\source\repos\DepoProje2\DepoProje2\obj\Debug\DepoProje2.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\DepoProje2\DepoProje2\obj\Debug\DepoProje2.csproj.SuggestedBindingRedirects.cache
+C:\Users\yusuf\source\repos\DepoProje2\DepoProje2\obj\Debug\DepoProje2.Form1.resources
+C:\Users\yusuf\source\repos\DepoProje2\DepoProje2\obj\Debug\DepoProje2.Properties.Resources.resources
+C:\Users\yusuf\source\repos\DepoProje2\DepoProje2\obj\Debug\DepoProje2.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\DepoProje2\DepoProje2\obj\Debug\DepoProje2.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\DepoProje2\DepoProje2\obj\Debug\DepoProje2.exe
+C:\Users\yusuf\source\repos\DepoProje2\DepoProje2\obj\Debug\DepoProje2.pdb
+C:\Users\yusuf\source\repos\DepoProje2\DepoProje2\obj\Debug\DepoProje2.Form2.resources
+C:\Users\Lab02-01\Desktop\DepoProje2 (1)\DepoProje2\bin\Debug\DepoProje2.exe.config
+C:\Users\Lab02-01\Desktop\DepoProje2 (1)\DepoProje2\bin\Debug\DepoProje2.exe
+C:\Users\Lab02-01\Desktop\DepoProje2 (1)\DepoProje2\bin\Debug\DepoProje2.pdb
+C:\Users\Lab02-01\Desktop\DepoProje2 (1)\DepoProje2\obj\Debug\DepoProje2.csproj.AssemblyReference.cache
+C:\Users\Lab02-01\Desktop\DepoProje2 (1)\DepoProje2\obj\Debug\DepoProje2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lab02-01\Desktop\DepoProje2 (1)\DepoProje2\obj\Debug\DepoProje2.Form1.resources
+C:\Users\Lab02-01\Desktop\DepoProje2 (1)\DepoProje2\obj\Debug\DepoProje2.Form2.resources
+C:\Users\Lab02-01\Desktop\DepoProje2 (1)\DepoProje2\obj\Debug\DepoProje2.Properties.Resources.resources
+C:\Users\Lab02-01\Desktop\DepoProje2 (1)\DepoProje2\obj\Debug\DepoProje2.csproj.GenerateResource.cache
+C:\Users\Lab02-01\Desktop\DepoProje2 (1)\DepoProje2\obj\Debug\DepoProje2.csproj.CoreCompileInputs.cache
+C:\Users\Lab02-01\Desktop\DepoProje2 (1)\DepoProje2\obj\Debug\DepoProje2.exe
+C:\Users\Lab02-01\Desktop\DepoProje2 (1)\DepoProje2\obj\Debug\DepoProje2.pdb
+C:\Users\yıldırım.ailesi\Desktop\DepoProje2 (1)\DepoProje2\bin\Debug\DepoProje2.exe.config
+C:\Users\yıldırım.ailesi\Desktop\DepoProje2 (1)\DepoProje2\bin\Debug\DepoProje2.exe
+C:\Users\yıldırım.ailesi\Desktop\DepoProje2 (1)\DepoProje2\bin\Debug\DepoProje2.pdb
+C:\Users\yıldırım.ailesi\Desktop\DepoProje2 (1)\DepoProje2\obj\Debug\DepoProje2.csproj.AssemblyReference.cache
+C:\Users\yıldırım.ailesi\Desktop\DepoProje2 (1)\DepoProje2\obj\Debug\DepoProje2.csproj.SuggestedBindingRedirects.cache
+C:\Users\yıldırım.ailesi\Desktop\DepoProje2 (1)\DepoProje2\obj\Debug\DepoProje2.Form1.resources
+C:\Users\yıldırım.ailesi\Desktop\DepoProje2 (1)\DepoProje2\obj\Debug\DepoProje2.Form2.resources
+C:\Users\yıldırım.ailesi\Desktop\DepoProje2 (1)\DepoProje2\obj\Debug\DepoProje2.Properties.Resources.resources
+C:\Users\yıldırım.ailesi\Desktop\DepoProje2 (1)\DepoProje2\obj\Debug\DepoProje2.csproj.GenerateResource.cache
+C:\Users\yıldırım.ailesi\Desktop\DepoProje2 (1)\DepoProje2\obj\Debug\DepoProje2.csproj.CoreCompileInputs.cache
+C:\Users\yıldırım.ailesi\Desktop\DepoProje2 (1)\DepoProje2\obj\Debug\DepoProje2.exe
+C:\Users\yıldırım.ailesi\Desktop\DepoProje2 (1)\DepoProje2\obj\Debug\DepoProje2.pdb
